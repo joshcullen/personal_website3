@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Josh Cullen"
-  site-url: https:/joshcullen.github.io
+  site-url: https://joshcullen.github.io
   navbar:
     left:
       - href: index.qmd
